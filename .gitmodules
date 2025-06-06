@@ -1,0 +1,3 @@
+[submodule "thirdparty/AlignedForensics"]
+	path = thirdparty/AlignedForensics
+	url = https://github.com/anisundar18/AlignedForensics.git
