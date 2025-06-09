@@ -1,3 +1,6 @@
 runs/
 data/
 *.pth
+checkpoints/
+.DS_Store
+imagenette2-320.tgz
